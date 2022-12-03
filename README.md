@@ -1,8 +1,8 @@
 # first_repository
 Python_Pro
 
-##First paragraph
+## First paragraph
 sdfsdf
 
-##Sec paragraph
+## Sec paragraph
 sdfsdf
